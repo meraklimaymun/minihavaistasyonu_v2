@@ -4,8 +4,6 @@ import RPi.GPIO as GPIO
 from lib_nrf24 import NRF24
 import time
 import spidev
-from bs4 import BeautifulSoup
-import requests
 from tkinter import * 
 import tkinter.font 
 from PIL import Image, ImageTk
